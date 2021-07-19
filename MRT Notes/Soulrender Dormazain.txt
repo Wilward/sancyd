@@ -1,0 +1,15 @@
+01:25
+|cD9CF002FChain 1 - Breakers|r  - <Player>, <Player>, <Player>
+|cD9CF002FChain 1|r - |cff00ff00Heals|r - <Player>, <Player>, <Player>
+|cF3FF7000Dance 1 - Speed|r  - <Player>
+
+04:07
+|cD9CF002FChain 2 - Breaker|r  - <Player>, <Player>, <Player>
+|cD9CF002FChain 2|r - |cff00ff00Heals|r - <Player>, <Player>, <Player>
+|cF3FF7000Dance 2 - Speed|r  - <Player>
+
+05:33
+|cD9CF002FChain 3 - Breaker|r  - <Player>, <Player>, <Player>
+|cD9CF002FChain 3|r - |cff00ff00Heals|r - <Player>, <Player>, <Player>
+|cF3FF7000Dance 3 - Speed|r  - <Player>
+        
